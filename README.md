@@ -10,6 +10,7 @@ To install Pygame, you must have Python 3 installed. On Windows, go to Command P
 On Linux, type in "sudo <package manager: ie. apt, dnf, etc.> install pip" (No Quotes). For some Linux Distros, this may differ. Once you have pip installed, tyoe in "pip3 install pygame" (No Quotes).
 On macOS, go to Terminal and type in "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py" (No Quotes). Then type in "python3 get-pip.py" (No Quotes). Lastly, type in "pip3 install pygame" (No Quotes).
 How To Run:
+Extract the Zip File and find the .py located inside.
 Once you have pygame installed, go to the IDE/Text Editor of your choice. ie. PyCharm, IDLE, Visual Studio Code, etc. Once you are in your IDE open the .py file and run the code.
 Alternatively, you can go to the Terminal in macOS or Linux and type in python3 <path to .py file>. You can also go to Command Prompt in Windows and type py -3 <path to .py file>
 How To Play:
