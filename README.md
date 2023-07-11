@@ -18,5 +18,7 @@ How To Play:
 Two players play on the same device. Player 1 uses keys: W and S to play. Player 2 uses Up and Down arrow keys to play. Move your paddle up and down and don't let the ball go out. Hit the ball to your opponent.
 If the ball goes out on your side, then your opponent gets the point. First player to reach 10 points wins!
 
+UPDATE: There is a new AI feature that allows you to play against an AI. The thing is though, that there is a very, very, very small chance (Like 0.00000001%) that you can even score a point against it. Just set a timer and see how long you last against it! The longer you last, the better!
+
 Open-Source:
 Feel free to revise and edit the code as you please. This code is completely open-source and anyone is free to use it. I am open to all honest feedback.
