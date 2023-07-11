@@ -13,7 +13,7 @@ How To Run:
 Extract the Zip File and find the .py located inside.
 Once you have pygame installed, go to the IDE/Text Editor of your choice. ie. PyCharm, IDLE, Visual Studio Code, etc. Once you are in your IDE open the .py file and run the code.
 Alternatively, you can go to the Terminal in macOS or Linux and type in python3 <path to .py file>. You can also go to Command Prompt in Windows and type py -3 <path to .py file>
-Windows users may also use the .exe file to run the game as an executable which allows the game to run more smoothly.
+Windows users may also use the .exe file to run the game as an executable which allows the game to run more smoothly, but there's a price, the .exe file does not have pixelated text so it may not feel like the classic Pong.
 How To Play:
 Two players play on the same device. Player 1 uses keys: W and S to play. Player 2 uses Up and Down arrow keys to play. Move your paddle up and down and don't let the ball go out. Hit the ball to your opponent.
 If the ball goes out on your side, then your opponent gets the point. First player to reach 10 points wins!
